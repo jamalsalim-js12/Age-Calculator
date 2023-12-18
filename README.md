@@ -24,7 +24,7 @@ A simple web application to calculate age based on the entered date.
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/age-calculator.git`
+1. Clone the repository: `git clone https://github.com/Jamalsalim-js12/age-calculator.git`
 2. Open `index.html` in your preferred web browser.
 
 ## Contributing
