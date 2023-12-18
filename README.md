@@ -24,6 +24,8 @@ A simple web application to calculate age based on the entered date.
 - Stylish and responsive design
 
 ## How to Use
+Click here https://age-calculator-12.netlify.app
+or 
 
 1. Clone the repository: `git clone https://github.com/Jamalsalim-js12/age-calculator.git`
 2. Open `index.html` in your preferred web browser.
