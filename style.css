@@ -1,0 +1,95 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(193, 174, 238);
+  background: linear-gradient(
+    180deg,
+    rgba(193, 174, 238, 1) 50%,
+    rgba(148, 155, 233, 1) 50%
+  );
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  background-color: white;
+  height: 17em;
+  width: 27rem;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  border-radius: 10px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+}
+
+input {
+  height: 40px;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 5%;
+  border-radius: 0.5em;
+  border: 0.5px solid gray;
+  font-size: large;
+  font: bold;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+button {
+  height: 30px;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+  font-size: large;
+  border-radius: 5px;
+  font-size: small;
+}
+
+.card-container {
+  height: 120px;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 10px;
+}
+
+.card1 {
+  height: 100px;
+  width: 28%;
+  background-color: rgba(255, 255, 255, 0.95);
+  box-shadow: 0, 5px, 15 black;
+  border-radius: 10px;
+  flex-basis: calc(50% - 20px);
+  text-align: center;
+  padding-top: 20px;
+  margin-right: 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+p {
+  color: grey;
+  font-size: medium;
+}
+
+@media screen and (max-width: 450px) {
+  .container {
+    width: 90%;
+  }
+
+  #date {
+    width: 90%;
+  }
+}
