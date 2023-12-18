@@ -1,5 +1,6 @@
 # Age Calculator
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/720e0f2e-ed24-472f-a5de-9f9b263f7b6f/deploy-status)](https://app.netlify.com/sites/age-calculator-12/deploys)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Jamalsalim-js12/age-calculator)
 ![GitHub issues](https://img.shields.io/github/issues/Jamalsalim-js12/age-calculator)
 ![GitHub stars](https://img.shields.io/github/stars/Jamalsalim-js12/age-calculator)
